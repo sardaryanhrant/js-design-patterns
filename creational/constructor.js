@@ -1,3 +1,6 @@
+// Constructor Design Pattern
+
+
 // Before
 // function Server(name, ip) {
 //     this.name = name
